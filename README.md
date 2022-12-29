@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋 
+
+## My name is Olivia and I am a Software Engineer in the baking 🍰
+- 🌱 I'm currently learning Typescript and doing a deep dive on Ruby on Rails and SQL
+- 📫 How to reach me: oliviatmanalastas@gmail.com
+- 🧘🏻‍♀️ Fun fact: I enjoy indoor rock climbing and playing tennis
+
+- Check out my website! -- www.oliviamanalastas.com and let me know if you're open to collaborate!   
+
+
 
 <!--
 **omtmana/omtmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
