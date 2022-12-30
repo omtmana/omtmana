@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 ## My name is Olivia and I am a Software Engineer in the baking 🍰
-- 🌱 I'm currently learning: Typescript, Python, and I am also doing a deep dive on Ruby on Rails and SQL
+- 🌱 I'm currently learning: Typescript, Python, and I am also doing a deeper dive on Ruby on Rails and SQL
 - 📫 How to reach me: oliviatmanalastas@gmail.com
 - 🧘🏻‍♀️ Fun fact: I enjoy indoor rock climbing and playing tennis
 
